@@ -7,3 +7,5 @@ Steagnography tool to encode a secret message into a text
 
 ## Step 2
   run `make encode` to hide your message into another, you'll get the same message with homoglyphs letters.
+  
+(Decoding coming soon...)
